@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    height: 100vh;
+    
+}
+
+.parallax-1{
+    height: 100vh;
+    background-image: url(https://images.pexels.com/photos/35857/amazing-beautiful-breathtaking-clouds.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.parallax-2{
+    height: 100vh;
+    background-image: url(https://images.pexels.com/photos/1933320/pexels-photo-1933320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.parallax-3{
+    height: 100vh;
+    background-image: url(https://images.pexels.com/photos/19811587/pexels-photo-19811587/free-photo-of-wide-angle-shot-of-the-rocky-mountains.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+    background-color: aliceblue;
+    color: black;
+    width: 500px;
+    height: 50px;
+    padding-top: 30px;
+    border-radius: 5px;
+    font-style: italic;
+     font-size: larger;
+     font-display: 200px;            
+}
+h2{ 
+    margin: 0;
+    text-align: center;
+    font-weight: 300;
+}
+
+p{
+    margin: 0 2rem;
+    line-height: 2rem;
+    
+}
+
+.color1{
+    background-color: #212121;
+    color: #fff;
+    padding: 2rem;
+}
